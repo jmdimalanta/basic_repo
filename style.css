@@ -1,0 +1,16 @@
+body{
+    width: 0px auto;
+    background-color: bisque;
+}
+
+h1{
+    background-color: beige;
+    margin: 20px;
+}
+
+p{
+    color: crimson;
+    font-size: large;
+    font-weight: bolder;
+    margin: 20px;
+}
